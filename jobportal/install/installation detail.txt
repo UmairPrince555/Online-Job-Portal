@@ -1,0 +1,2 @@
+just create  a database name php_sql 
+and than run localhost
